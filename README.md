@@ -12,4 +12,4 @@ This project implements different search algorithms to solve the puzzle. Methods
  - Best-first search
  - A Star
  
- The AI algorithm works by building a tree of possible moves (there are many!) until it finds the winning move set. Once the winning set it found, it traverses back up the tree to provide the sequence of moves.
+The AI algorithm works by building a tree of possible moves (there are many!) until it finds the winning move set. Once the winning set it found, it traverses back up the tree to provide the sequence of moves.
